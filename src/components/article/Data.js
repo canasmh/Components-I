@@ -83,6 +83,26 @@ const data = [
       thirdParagraph: `Hodor hodor - hodor... Hodor hodor hodor hodor. Hodor. Hodor! Hodor hodor, hodor hodor hodor hodor hodor; hodor hodor? Hodor!
             Hodor hodor, HODOR hodor, hodor hodor?! Hodor! Hodor hodor, HODOR hodor, hodor hodor, hodor, hodor hodor. Hodor, hodor.
             Hodor. Hodor, hodor, hodor. Hodor hodor... Hodor hodor hodor?! Hodor, hodor... Hodor hodor HODOR hodor, hodor hodor. Hodor.`
+    },
+    {
+        title: "My name is Manny",
+        date: 'Oct 4, 2022',
+
+        firstParagraph: `My name is manny, My name is manny, My name is manny, My name is manny, My name is manny, My name is manny, 
+        My name is manny, My name is manny, My name is manny, My name is manny, My name is manny, My name is manny, My name is manny, 
+        My name is manny, My name is manny, My name is manny, My name is manny, My name is manny, My name is manny, My name is manny, My name is manny, 
+        My name is manny, My name is manny, My name is manny, My name is manny, My name is manny, My name is manny, My name is manny!`,
+
+        secondParagraph: `But sometimes I am Groot! But sometimes I am Groot? But sometimes I am Groot! But sometimes I am Groot? But sometimes I am Groot! But 
+        sometimes I am Groot? But sometimes I am Groot! But sometimes I am Groot? But sometimes I am Groot! But sometimes I am Groot? But sometimes I am Groot! 
+        But sometimes I am Groot? But sometimes I am Groot! But sometimes I am Groot? But sometimes I am Groot! But sometimes I am Groot? But sometimes I am Groot!
+         But sometimes I am Groot?.`,
+
+        thirdParagraph: `But definitely always Manny! Except for when I am Groot? But definitely always Manny! Except for when I am Groot? 
+        But definitely always Manny! Except for when I am Groot? But definitely always Manny! Except for when I am Groot? But definitely always Manny! Except for when I am Groot? 
+        But definitely always Manny! Except for when I am Groot? But definitely always Manny! Except for when I am Groot? But definitely always Manny! Except for when I am Groot? 
+        But definitely always Manny! Except for when I am Groot? But definitely always Manny! Except for when I am Groot?.`
+
     }
   ];
 
