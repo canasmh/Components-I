@@ -40,6 +40,9 @@ function articleMaker(article) {
   const span = document.createElement('span');
   span.classList.add('expandButton');
   span.textContent = "+";
+  span.addEventListener('click', (evt) => {
+    articleDiv.classList.toggle('article-open');
+  })
 
   paragraph1.textContent = article.firstParagraph;
   paragraph2.textContent = article.secondParagraph;
