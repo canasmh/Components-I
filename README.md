@@ -30,8 +30,8 @@ Do not **move or rename any files** in this project. The website's source files 
 
 ### The Menu Component
 
-* [ ] Follow the instructions found in the Menu.js file to complete the JavaScript functionality.
+* [x] Follow the instructions found in the Menu.js file to complete the JavaScript functionality.
 
 ## Submission Format
 
-* [ ] Paste a link to your repo into the appropriate canvas input.
+* [x] Paste a link to your repo into the appropriate canvas input. [or on code grade, as instructed on canvas??]
