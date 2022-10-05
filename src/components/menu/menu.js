@@ -38,6 +38,8 @@ function menuMaker(menuItems) {
 
   menuDiv.appendChild(unorderedList);
 
+  const menuBtn = document.querySelector('img.menu-button');
+
   return menuDiv;
 }
   
