@@ -23,6 +23,26 @@ let menuItems = [
 
   Step 2: Inside the function, iterate over the array creating a list item <li> element for each item in the array.
   Add those items to the <ul>
+*/
+
+function menuMaker(menuItems) {
+  const menuDiv = document.createElement('div');
+  menuDiv.classList.add('menu');
+  const unorderedList = document.createElement('ul');
+
+  menuItems.map((menuItem) => {
+    const listItem = document.createElement('li');
+    listItem.textContent = menuItem;
+    unorderedList.appendChild(listItem);
+  })
+
+  menuDiv.appendChild(unorderedList);
+
+  return menuDiv;
+}
+  
+
+/*
 
   Step 3: Still inside your function, select from the DOM the menu button (the element with a class of 'menu-button').
 
